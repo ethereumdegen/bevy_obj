@@ -15,12 +15,12 @@ thiserror = "1.0.0"
 tobj = "4.0.0"
 
 [dependencies.bevy]
-version = "0.15.0-rc"
+version = "0.15.0"
 default-features = false
 features = ["bevy_asset", "bevy_render"]
 
 [dev-dependencies.bevy]
-version = "0.15.0-rc"
+version = "0.15.0"
 default-features = true
 
 [features]
